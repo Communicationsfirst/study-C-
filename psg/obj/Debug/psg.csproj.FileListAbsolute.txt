@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\psg\psg\bin\Debug\psg.exe.config
+C:\Users\user\source\repos\psg\psg\bin\Debug\psg.exe
+C:\Users\user\source\repos\psg\psg\bin\Debug\psg.pdb
+C:\Users\user\source\repos\psg\psg\obj\Debug\psg.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\psg\psg\obj\Debug\psg.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\psg\psg\obj\Debug\psg.exe
+C:\Users\user\source\repos\psg\psg\obj\Debug\psg.pdb
